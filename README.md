@@ -4,7 +4,7 @@ An interactive Python tool for manually logging football (soccer) match events f
 
 Developed initially for tagging **Kattakurgan vs. Jayxun** in Uzbekistan's Pro Liga, where detailed public event-level data can be difficult to obtain.
 
-![Football event tagger interface showing illustrative example events](assets/tagger-screenshot.png)
+![Football event tagger interface showing illustrative example events](tagger-screenshot.png)
 
 
 ## Features
