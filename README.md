@@ -6,7 +6,6 @@ Developed initially for tagging **Kattakurgan vs. Jayxun** in Uzbekistan's Pro L
 
 ![Football event tagger interface showing illustrative example events](assets/tagger-screenshot.png)
 
-*Example interface with demonstration events. Events are tagged by clicking on the pitch; the screenshot was rendered from `tagger.py` using a temporary pitch-drawing substitute because `mplsoccer` was unavailable in the screenshot environment.*
 
 ## Features
 
