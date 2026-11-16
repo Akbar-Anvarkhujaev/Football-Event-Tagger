@@ -23,11 +23,9 @@ Developed initially for tagging **Kattakurgan vs. Jayxun** in Uzbekistan's Pro L
 Requires Python 3.9+ and a desktop environment capable of displaying a Matplotlib window.
 
 ```bash
-# Clone your repository after publishing it on GitHub
 git clone https://github.com/YOUR-USERNAME/football-event-tagger.git
 cd football-event-tagger
 
-# Optional: create a virtual environment
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
